@@ -1,2 +1,2 @@
 # truncting
-This is Yoimmy's first repository which 
+This is Yoimmy's first repository
