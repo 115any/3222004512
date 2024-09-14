@@ -17,11 +17,11 @@ class TestFunctions(unittest.TestCase):
         """
         self.original_file_path = r'C:\Users\YANGY\Desktop\testbar\orig.txt'
         self.copied_file_paths = [
-            r'C:\Users\YANGY\Desktop\testbar\1.orig_0.8_add.txt',
-            r'C:\Users\YANGY\Desktop\testbar\2.orig_0.8_del.txt',
-            r'C:\Users\YANGY\Desktop\testbar\3.orig_0.8_dis_1.txt',
-            r'C:\Users\YANGY\Desktop\testbar\4.orig_0.8_dis_10.txt',
-            r'C:\Users\YANGY\Desktop\testbar\5.orig_0.8_dis_15.txt'
+            r'C:\Users\YANGY\Desktop\testbar\orig_0.8_add.txt',
+            r'C:\Users\YANGY\Desktop\testbar\orig_0.8_del.txt',
+            r'C:\Users\YANGY\Desktop\testbar\orig_0.8_dis_1.txt',
+            r'C:\Users\YANGY\Desktop\testbar\orig_0.8_dis_10.txt',
+            r'C:\Users\YANGY\Desktop\testbar\orig_0.8_dis_15.txt'
         ]
         self.answer_file_path = r'C:\Users\YANGY\Desktop\testbar\answer.txt'
 
